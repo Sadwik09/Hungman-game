@@ -1,3 +1,3 @@
 # Hungman-game
 
-simply-hungman-game.netlify.app
+https://simply-hungman-game.netlify.app/
